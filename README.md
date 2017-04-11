@@ -1,7 +1,10 @@
 # Experimentation Mondays
 
-Issue list for experimentation mondays
+## Why we do this?
 
+## License
+
+All code results are under EUPL? 
 
 ## Ideas as issues and labels
 
@@ -11,3 +14,5 @@ Issue list for experimentation mondays
 ## Code results
 
 All code results go under our experimentation community APIOps. https://github.com/apiops. Members of APIOps organization can create repositories. 
+
+## Feedback
