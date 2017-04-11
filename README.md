@@ -25,5 +25,5 @@ APIOps is our experimentation community in which we engage with other developers
 Thus all code results from Experimentation Mondays go under APIOps organization. https://github.com/apiops. Members of APIOps organization can create repositories. Just create a repository and put all in one place. 
 
 
-
 ## Feedback
+After the day every team member is expected to give feedback about the experimentation day. Use for purpose build API. Use the API via Swagger documentation. (Crafting the API is one experiment)
