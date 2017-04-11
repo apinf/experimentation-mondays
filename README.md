@@ -4,6 +4,11 @@
 
 The APInf team organizes bi-weekly Experimentation Mondays. The purpose is to encourage a culture of experimentation and exploration culture. This allows the team members to learn by doing and to get familiar with new technologies. It hopefully will also increase job satisfaction. The experimentations can even be used for very minimal implementations of customer needs.
 
+## Guide lines
+
+* You have to _do_ something tangible
+* Creating just specs or task lists is not enough (concept building is not doing)
+
 ## License
 
 All code results are under EUPL? 
