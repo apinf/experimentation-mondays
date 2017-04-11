@@ -8,7 +8,7 @@ The APInf team organizes bi-weekly Experimentation Mondays. The purpose is to en
 
 **10:00am** 
 * gather together (Meeting room Canada in Tampere, others online)
-* everyone picks an idea, participants added to Github issues
+* everyone picks an idea, participants added to Github issues. You can assign yourself to issue already on Friday. 
 * start doing!
 
 **15:30am** 
