@@ -5,6 +5,7 @@
 The APInf team organizes bi-weekly Experimentation Mondays. The purpose is to encourage a culture of experimentation and exploration culture. This allows the team members to learn by doing and to get familiar with new technologies. It hopefully will also increase job satisfaction. The experimentations can even be used for very minimal implementations of customer needs.
 
 Dates for following days: 
+* 10.4.2017
 * 24.4.2017
 * 8.5.2017
 * 22.5.2017
