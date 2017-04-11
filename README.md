@@ -4,6 +4,21 @@
 
 The APInf team organizes bi-weekly Experimentation Mondays. The purpose is to encourage a culture of experimentation and exploration culture. This allows the team members to learn by doing and to get familiar with new technologies. It hopefully will also increase job satisfaction. The experimentations can even be used for very minimal implementations of customer needs.
 
+## Structure
+
+**10:00am** 
+* gather together (Meeting room Canada in Tampere, others online)
+* everyone picks an idea, participants added to Github issues
+* start doing!
+
+**15:30am** 
+* gather together and see the results. 
+* close the issues
+
+After the day, add front slide to video and upload to Youtube. You can add the front slide to the video in Youtube too. Add link to video in the given issue. 
+
+
+
 ## Guide lines
 
 * You have to _do_ something - result must be something tangible
