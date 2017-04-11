@@ -6,7 +6,7 @@ The APInf team organizes bi-weekly Experimentation Mondays. The purpose is to en
 
 ## Guide lines
 
-* You have to _do_ something tangible
+* You have to _do_ something - result must be something tangible
 * Creating just specs or task lists is not enough (concept building is not doing)
 
 ## License
