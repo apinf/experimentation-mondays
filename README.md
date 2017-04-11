@@ -11,10 +11,14 @@ All code results are under EUPL?
 ## Ideas as issues
 
 * All ideas in issues. 
-* When idea is "used", add comment where is link to results and close the issue. 
+* When idea is "used", add comment where is link to results and close the issue. [An example](https://github.com/apinf/experimentation-mondays/issues/2)
 
 ## Code results
 
-All code results go under our experimentation community APIOps. https://github.com/apiops. Members of APIOps organization can create repositories. 
+APIOps is our experimentation community in which we engage with other developers. We encourage other companies to follow our example. 
+
+Thus all code results from Experimentation Mondays go under APIOps organization. https://github.com/apiops. Members of APIOps organization can create repositories. Just create a repository and put all in one place. 
+
+
 
 ## Feedback
