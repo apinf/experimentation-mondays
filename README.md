@@ -10,4 +10,4 @@ Issue list for experimentation mondays
 
 ## Code results
 
-All code results go under our experimentation community APIOps. https://github.com/apiops. To get push rights to APIOps, ask @kyyberi (Jarkko Moilanen) or @bajiat (Taija Björklund)
+All code results go under our experimentation community APIOps. https://github.com/apiops. Members of APIOps organization can create repositories. 
