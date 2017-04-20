@@ -1,6 +1,6 @@
-# 10.4.2017 ation Experiments
+# 10.4.2017 Experiments
 
-## RapiD API 
+## RapiD API
 
 * Jarkko
 
