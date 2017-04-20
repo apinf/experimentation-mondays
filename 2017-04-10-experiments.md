@@ -2,7 +2,12 @@
 
 ## RapiD API
 
+Generate PoC solution to build API from customer given Excel file.
+
 * Jarkko
+* Mahesh
+
+### Outcomes
 
 - [Video](https://www.youtube.com/watch?v=QGPimgz-R8M)
 - [Repository]( https://github.com/APIOps/ExcelAPI/)
@@ -15,13 +20,17 @@
 * Nazia
 * Taija
 
-- video url
-- repository url
+### Outcomes
 
-## REST-ML
+- _TODO_: video url
+- _TODO_: repository url
+
+## ML-REST
 
 * Brylie
 * Dasha
 
-- [Video]()
-- [Repository]()
+### Outcomes
+
+- [Video](https://www.youtube.com/watch?v=nOwfYGaCr3w)
+- [Repository](https://github.com/apinf/ml-rest)
