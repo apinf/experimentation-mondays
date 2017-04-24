@@ -9,7 +9,7 @@ The APInf team organizes bi-weekly Experimentation Mondays. The purpose is to en
 Bi-weekly:
 
 * [10.4.2017](2017-04-10-experiments.md)
-* 24.4.2017
+* [24.4.2017](2017-04-24-experiments.md)
 * 8.5.2017
 * 22.5.2017
 * 5.6.2017
