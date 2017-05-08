@@ -12,4 +12,4 @@
 
 Attempting to solve #1, we began with a swagger file, and then used the codegen. The results are on the:
 
-- [Repository](https://github.com/apinf/experimentation-mondays-feedback-api)
+- [Repository](https://github.com/apinf/experimentation-mondays/issues/12)
