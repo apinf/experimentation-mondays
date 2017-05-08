@@ -5,7 +5,7 @@
 * Jawid Ahmadi
 * Nazia Hasan
 
-* [Mauricio](https://github.com/jawidahmadi)
+* [Jawid](https://github.com/jawidahmadi)
 * [Nazia](https://github.com/Nazarah)
 
 ### Outcomes
