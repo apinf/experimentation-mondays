@@ -1,15 +1,15 @@
 # 8.5.2017 Experiments
 
-## Project Boilerplate
+## Experimentation Mondays Users API
 
-Copy this section and write about your experiment (please leave this session).
-Project description. 
+* Jawid Ahmadi
+* Nazia Hasan
 
-* Participant 1
-* Participant 2 - in alphabetical order, if you wish
+* [Mauricio](https://github.com/jawidahmadi)
+* [Nazia](https://github.com/Nazarah)
 
 ### Outcomes
 
-- [Video](here it goes your video URL)
-- [Repository](replace by your repository url)
+Attempting to solve #1, we began with a swagger file, and then used the codegen. The results are on the:
 
+- [Repository](https://github.com/apinf/experimentation-mondays-feedback-api)
