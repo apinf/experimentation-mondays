@@ -2,7 +2,7 @@
 
 ## Why we do this?
 
-The APInf team organizes bi-weekly Experimentation Mondays. The purpose is to encourage a culture of experimentation and exploration culture. This allows the team members to learn by doing and to get familiar with new technologies. It hopefully will also increase job satisfaction. The experimentations can even be used for very minimal implementations of customer needs.
+The APInf team organizes bi-weekly Experimentation Mondays. The purpose is to encourage a culture of experimentation and exploration. This allows the team members to learn by doing and to get familiar with new technologies. It hopefully will also increase job satisfaction. The experimentations can even be used for very minimal implementations of customer needs.
 
 ## When?
 
@@ -40,8 +40,7 @@ Bi-weekly:
 * gather together and see the results.
 * close the issues
 
-After the day, add front slide to video and upload to Youtube. You can add the front slide to the video in Youtube too. Add link to video in the given issue.
-
+After the day, add front slide to video and upload to Youtube. You can add the front slide to the video in Youtube too. Add link to video in the given issue and correspondent experimentation day log.
 
 ## Guide lines
 
