@@ -12,6 +12,17 @@ Build a REST API for interacting with Machine Learning as a Service. E.g. scikit
 - [Video](here it goes your video URL)
 - [Repository](replace by your repository url)
 
+## Airblock drone experiments
+
+More testing on the drone. Using ios application to control the device. Pre-programmed movement pattern in one button.
+
+* Joonas
+* Participant 2 - in alphabetical order, if you wish
+
+### Outcomes
+
+- [Video](here it goes your video URL)
+- [Repository](replace by your repository url)
 
 ## Project Boilerplate
 
