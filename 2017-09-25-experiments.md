@@ -20,7 +20,7 @@ Experimenting with creating an automated test with Postman for APInf APIs
 ### Outcomes
 
 - [Video](here it goes your video URL)
-- [Repository](replace by your repository url)
+- [Repository](https://github.com/apinf/experimentation-mondays/issues/23)
 
 ## Machine Learning API
 
