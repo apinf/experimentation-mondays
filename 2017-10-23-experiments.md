@@ -26,8 +26,7 @@ Project description.
 
 ## Using Options method in Restivus Swagger
 
-Copy this section and write about your experiment.
-Project description.
+The goal was to check if API implemented with Restivus has support for request for method OPTIONS. It is used as a preflight by Swagger for other method calls in case API key is used. 
 
 * Matti
 
