@@ -22,7 +22,7 @@ Project description.
 ### Outcomes
 
 - [Video](here it goes your video URL)
-- [Repository](replace by your repository url)
+- https://github.com/apinf/harry-potter-clock
 
 ## Using Options method in Restivus Swagger
 
