@@ -10,7 +10,7 @@ Project description.
 ### Outcomes
 
 - [Video](here it goes your video URL)
-- [Repository](replace by your repository url)
+- [Repository](https://github.com/apinf/experimentation-mondays/issues/25)
 
 ## Project Boilerplate
 
