@@ -11,16 +11,9 @@ The goal is to find out, how APIs basing on Restivus handle OPTIONS request and 
 - [Video](here it goes your video URL)
 - [Repository](https://github.com/apinf/experimentation-mondays/issues/27)
 
-## Project Boilerplate
-
-Copy this section and write about your experiment (please leave this session).
-Project description.
-
-
-* Participant 1
-* Participant 2 - in alphabetical order, if you wish
+## Reverse proxy as a solution to the missing response headers issue
+  Install and setup NGINX as a reverse proxy. Add response headers to satisfy the SwaggerUI.
 
 ### Outcomes
-
-- [Video](here it goes your video URL)
-- [Repository](replace by your repository url)
+  Successfully tested the idea locally:
+- [Experimentation report](https://github.com/apinf/experimentation-mondays/issues/28)
