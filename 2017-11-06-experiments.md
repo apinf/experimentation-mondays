@@ -1,4 +1,4 @@
-# 05.11.2017 Experiments
+7# 05.11.2017 Experiments
 
 ## Project Boilerplate
 
@@ -10,7 +10,7 @@ Project description.
 ### Outcomes
 
 - [Video](here it goes your video URL)
-- [Repository](https://github.com/apinf/experimentation-mondays/issues/25)
+- [Repository](https://github.com/apinf/experimentation-mondays/issues/27)
 
 ## Project Boilerplate
 
