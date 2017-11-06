@@ -2,8 +2,7 @@
 
 ## Project Boilerplate
 
-Copy this section and write about your experiment (please leave this session).
-Project description.
+The goal is to find out, how APIs basing on Restivus handle OPTIONS request and if it is possible to change it.
 
 * Matti
 
