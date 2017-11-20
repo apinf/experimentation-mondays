@@ -5,8 +5,14 @@
 Copy this section and write about your experiment (please leave this session).
 HSL related experiment...
 
-* Participant 1
-* Participant 2 - in alphabetical order, if you wish
+* Nazia
+  * to check the graphQL calls
+* Antero
+  * to start a proxy 
+* Ilya
+  * to test mqtt dashboard 
+* Matti
+  * to implement a client to visualize some data 
 
 ### Outcomes
 
