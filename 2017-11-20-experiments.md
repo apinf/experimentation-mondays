@@ -1,3 +1,4 @@
+
 # 20.11.2017 Experiments
 
 ## Project Boilerplate
@@ -11,7 +12,8 @@ HSL related experiment...
 * Ilya
   * to test mqtt dashboard 
 * Matti
-  * to implement a client to visualize some data 
+  * to implement a client to visualize some data
+  * [Repository](https://github.com/apinf/experimentation-mondays/issues/27)
 
 ### Outcomes
 
