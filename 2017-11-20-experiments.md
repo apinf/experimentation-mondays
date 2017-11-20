@@ -2,7 +2,6 @@
 
 ## Project Boilerplate
 
-Copy this section and write about your experiment (please leave this session).
 HSL related experiment...
 
 * Nazia
