@@ -45,4 +45,4 @@ Project description.
 ### Outcomes
 
 - [Video](here it goes your video URL)
-- [Repository](replace by your repository url)
+- [Repository](https://github.com/apinf/docs/blob/master/docs/ideas/APInf-UI-novice-DX.md)
